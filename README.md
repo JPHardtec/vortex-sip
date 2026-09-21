@@ -1,9 +1,9 @@
 # 🚀 Vortex SIP Softphone
 
-![Version](https://img.shields.io/badge/version-v2.6.2-blue.svg)
+![Version](https://img.shields.io/badge/version-v2.6.8-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64)-informational.svg)
 ![Edition](https://img.shields.io/badge/edition-FREE%20%2F%20PRO-success.svg)
-![Partner](https://img.shields.io/badge/desenvolvido%20em%20parceria-Soluciona%20T.I%20e%20Telecom-orange.svg)
+![Author](https://img.shields.io/badge/desenvolvido%20por-Jean%20Palumbo%20%2F%20JPHardtec-blueviolet.svg)
 
 **Vortex SIP Softphone** é um discador telefônico SIP de alta performance para Windows, desenvolvido com motor nativo PJSIP e interface moderna e intuitiva. Projetado para empresas, call centers, atendentes remotos e integradores de telefonia IP (VoIP/PABX Asterisk, FreePBX, Issabel, Elastix, 3CX, OpenSIPS, Kamailio).
 
@@ -39,27 +39,27 @@
 
 Para baixar o instalador oficial do **Vortex SIP** para Windows:
 
-1. Acesse a área de lançamentos: **[Baixar Vortex SIP v2.6.2 (Windows x64)](https://github.com/jccp123/discador-sip-private/releases/download/v2.6.2/Vortex.SIP.Pro-Setup-2.6.2.exe)**
-2. Execute o arquivo `Vortex.SIP.Pro-Setup-2.6.2.exe`.
+1. Acesse a área de lançamentos: **[Baixar Vortex SIP v2.6.8 (Windows x64)](https://github.com/JPHardtec/discador-sip-private/releases/download/v2.6.8/Vortex-SIP-Pro-Setup-2.6.8.exe)**
+2. Execute o arquivo `Vortex-SIP-Pro-Setup-2.6.8.exe`.
 3. O aplicativo será instalado automaticamente e pronto para ser configurado com o seu servidor SIP/PABX IP.
 
 ---
 
 ## 🔑 Como Ativar a Versão PRO
 
-Clientes da **Soluciona Assessoria em T.I e Telecom** possuem acesso à chave de licença **Vortex SIP PRO**.
+Adquira sua licença **Vortex SIP PRO** diretamente com a revendedora autorizada ou com o desenvolvedor.
 
 Para ativar sua licença:
 1. Abra o **Vortex SIP**.
-2. Clique no ícone de chave **🔑 Ativar PRO** no topo do aplicativo.
-3. Insira sua chave de licença no formato `VXPRO-XXXX-XXXX-XXXX-XXXX`.
+2. Clique no ícone de chave **🔑** no topo do aplicativo.
+3. Insira sua chave de licença no formato `VORTEX-PRO-XXXXXXXX-XXXXXXXX`.
 4. Clique em **Ativar Licença**. O aplicativo será atualizado para a versão PRO instantaneamente!
 
 ---
 
-## 🏢 Soluciona Assessoria em T.I e Telecom
+## 🤝 Parceira Revendedora Autorizada
 
-Desenvolvido e mantido em parceria com a **Soluciona Assessoria em T.I e Telecom**, especialista em infraestrutura de TI, redes, consultoria e soluções completas em Telefonia IP/VoIP.
+O **Vortex SIP** é revendido e implantado para clientes pela **Soluciona Assessoria em T.I e Telecom**, especialista em infraestrutura de TI, redes, consultoria e soluções completas em Telefonia IP/VoIP.
 
 - 🌐 **Website**: [https://soluciona.inf.br](https://soluciona.inf.br)
 - 💼 **Soluções Corporativas**: Telefonia IP, PABX Cloud, Troncos SIP, Consultoria em TI e Telecom.
@@ -68,5 +68,5 @@ Desenvolvido e mantido em parceria com a **Soluciona Assessoria em T.I e Telecom
 
 ## 📄 Licença e Suporte
 
-- **Suporte Técnico**: Exclusivo para clientes com contrato ativo com a Soluciona Assessoria em T.I e Telecom.
-- **Direitos Autorais**: © 2026 Soluciona Assessoria em T.I e Telecom. Todos os direitos reservados.
+- **Suporte Técnico**: Clientes com contrato ativo com a Soluciona Assessoria em T.I e Telecom.
+- **Direitos Autorais**: © 2024-2026 Jean Cintra de Campos Palumbo (JPHardtec). Todos os direitos reservados.
