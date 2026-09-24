@@ -1,6 +1,6 @@
 # 🚀 Vortex SIP Softphone
 
-![Version](https://img.shields.io/badge/version-v2.6.8-blue.svg)
+![Version](https://img.shields.io/badge/version-v2.7.1-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64)-informational.svg)
 ![Edition](https://img.shields.io/badge/edition-FREE%20%2F%20PRO-success.svg)
 ![Author](https://img.shields.io/badge/desenvolvido%20por-Jean%20Palumbo%20%2F%20JPHardtec-blueviolet.svg)
@@ -12,10 +12,11 @@
 ## ⚡ Principais Recursos
 
 - 🎧 **Qualidade de Áudio Cristalina**: Suporte aos principais codecs VoIP (G.711 u-law/a-law, Opus, Speex).
-- 🎨 **Interface Moderna & Responsiva**: Design Dark Glassmorphism elegante, otimizado para produtividade.
-- 🔔 **Notificações em Segundo Plano**: Integração total com a bandeja do sistema (System Tray) e inicialização automática com o Windows.
+- 🎨 **Interface Moderna & Responsiva**: Design Dark Glassmorphism elegante com barras de rolagem finas e personalizadas.
+- 🔔 **Notificações em Segundo Plano**: Integração total com a bandeja do sistema (System Tray) e inicialização automática persistente no Windows.
 - 🌐 **Multi-idioma Nativo**: Suporte completo em **Português (BR)**, **English** e **Español**.
 - ⏱️ **48 Horas de Teste PRO Grátis**: Qualquer nova instalação recebe 2 dias de acesso ilimitado a todos os recursos da versão **PRO**.
+- 🔄 **Atualizações Automáticas**: Sistema integrado de auto-updater direto via GitHub Releases sem fricção.
 
 ---
 
@@ -39,9 +40,9 @@
 
 Para baixar o instalador oficial do **Vortex SIP** para Windows:
 
-1. Acesse a área de lançamentos: **[Baixar Vortex SIP v2.6.8 (Windows x64)](https://github.com/JPHardtec/discador-sip-private/releases/download/v2.6.8/Vortex-SIP-Pro-Setup-2.6.8.exe)**
-2. Execute o arquivo `Vortex-SIP-Pro-Setup-2.6.8.exe`.
-3. O aplicativo será instalado automaticamente e pronto para ser configurado com o seu servidor SIP/PABX IP.
+1. Acesse o lançamento oficial: **[Baixar Vortex SIP v2.7.1 (Windows x64)](https://github.com/JPHardtec/discador-sip-private/releases/download/v2.7.1/Vortex-SIP-Pro-Setup-2.7.1.exe)**
+2. Execute o arquivo `Vortex-SIP-Pro-Setup-2.7.1.exe`.
+3. O aplicativo será instalado automaticamente e estará pronto para ser configurado com o seu servidor SIP/PABX IP.
 
 ---
 
@@ -68,5 +69,6 @@ O **Vortex SIP** é revendido e implantado para clientes pela **Soluciona Assess
 
 ## 📄 Licença e Suporte
 
+- **Desenvolvedor**: Jean Palumbo (JPHardtec)
 - **Suporte Técnico**: Clientes com contrato ativo com a Soluciona Assessoria em T.I e Telecom.
-- **Direitos Autorais**: © 2024-2026 Jean Cintra de Campos Palumbo (JPHardtec). Todos os direitos reservados.
+- **Direitos Autorais**: © 2024-2026 Jean Palumbo (JPHardtec). Todos os direitos reservados.
