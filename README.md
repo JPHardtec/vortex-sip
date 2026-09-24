@@ -1,6 +1,6 @@
 # 🚀 Vortex SIP Softphone
 
-![Version](https://img.shields.io/badge/version-v2.7.1-blue.svg)
+![Version](https://img.shields.io/badge/version-v2.7.2-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64)-informational.svg)
 ![Edition](https://img.shields.io/badge/edition-FREE%20%2F%20PRO-success.svg)
 ![Author](https://img.shields.io/badge/desenvolvido%20por-Jean%20Palumbo%20%2F%20JPHardtec-blueviolet.svg)
@@ -17,6 +17,7 @@
 - 🌐 **Multi-idioma Nativo**: Suporte completo em **Português (BR)**, **English** e **Español**.
 - ⏱️ **48 Horas de Teste PRO Grátis**: Qualquer nova instalação recebe 2 dias de acesso ilimitado a todos os recursos da versão **PRO**.
 - 🔄 **Atualizações Automáticas**: Sistema integrado de auto-updater direto via GitHub Releases sem fricção.
+- 🛡️ **Proteção Criptográfica & Anti-Debugging**: Módulo nativo PJSIP com verificações criptográficas de segurança e trava de chave master codificada por SHA-256.
 
 ---
 
@@ -40,8 +41,8 @@
 
 Para baixar o instalador oficial do **Vortex SIP** para Windows:
 
-1. Acesse o lançamento oficial: **[Baixar Vortex SIP v2.7.1 (Windows x64)](https://github.com/JPHardtec/discador-sip-private/releases/download/v2.7.1/Vortex-SIP-Pro-Setup-2.7.1.exe)**
-2. Execute o arquivo `Vortex-SIP-Pro-Setup-2.7.1.exe`.
+1. Acesse o lançamento oficial: **[Baixar Vortex SIP v2.7.2 (Windows x64)](https://github.com/JPHardtec/discador-sip-private/releases/download/v2.7.2/Vortex-SIP-Pro-Setup-2.7.2.exe)**
+2. Execute o arquivo `Vortex-SIP-Pro-Setup-2.7.2.exe`.
 3. O aplicativo será instalado automaticamente e estará pronto para ser configurado com o seu servidor SIP/PABX IP.
 
 ---
