@@ -1,6 +1,6 @@
 # 🚀 Vortex SIP Softphone
 
-![Version](https://img.shields.io/badge/version-v2.7.3-blue.svg)
+![Version](https://img.shields.io/badge/version-v2.7.4-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64)-informational.svg)
 ![Edition](https://img.shields.io/badge/edition-FREE%20%2F%20PRO-success.svg)
 ![Author](https://img.shields.io/badge/desenvolvido%20por-Jean%20Palumbo%20%2F%20JPHardtec-blueviolet.svg)
@@ -41,8 +41,8 @@
 
 Para baixar o instalador oficial do **Vortex SIP** para Windows:
 
-1. Acesse o lançamento oficial: **[Baixar Vortex SIP v2.7.3 (Windows x64)](https://github.com/JPHardtec/discador-sip-private/releases/download/v2.7.3/Vortex-SIP-Pro-Setup-2.7.3.exe)**
-2. Execute o arquivo `Vortex-SIP-Pro-Setup-2.7.3.exe`.
+1. Acesse o lançamento oficial: **[Baixar Vortex SIP v2.7.4 (Windows x64)](https://github.com/JPHardtec/discador-sip-private/releases/download/v2.7.4/Vortex-SIP-Pro-Setup-2.7.4.exe)**
+2. Execute o arquivo `Vortex-SIP-Pro-Setup-2.7.4.exe`.
 3. O aplicativo será instalado automaticamente e estará pronto para ser configurado com o seu servidor SIP/PABX IP.
 
 ---
