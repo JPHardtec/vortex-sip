@@ -1,6 +1,6 @@
 # 🚀 Vortex SIP Softphone
 
-![Version](https://img.shields.io/badge/version-v2.8.1-blue.svg)
+![Version](https://img.shields.io/badge/version-v2.8.2-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64)%20%7C%20Android-informational.svg)
 ![Edition](https://img.shields.io/badge/edition-FREE%20%2F%20PRO-success.svg)
 ![Author](https://img.shields.io/badge/desenvolvido%20por-Jean%20Palumbo%20%2F%20JPHardtec-blueviolet.svg)
@@ -41,7 +41,7 @@
 
 Para baixar os instaladores oficiais do **Vortex SIP**:
 
-1. **Windows (x64)**: **[Baixar Vortex SIP v2.8.1 (Windows Installer)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.8.1/Vortex-SIP-Pro-Setup-2.8.1.exe)** ou versão **[Portable (Executável Direto)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.8.1/Vortex-SIP-Pro-2.8.1.exe)**
+1. **Windows (x64)**: **[Baixar Vortex SIP v2.8.2 (Windows Installer)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.8.2/Vortex-SIP-Pro-Setup-2.8.2.exe)** ou versão **[Portable (Executável Direto)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.8.2/Vortex-SIP-Pro-2.8.2.exe)**
 2. **Android (APK)**: **[Baixar Vortex SIP Mobile (Android APK)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.7.9/Vortex-SIP-Mobile-v2.7.9.apk)**
 3. Execute no seu dispositivo e conecte-se com sua conta SIP / PABX IP.
 
