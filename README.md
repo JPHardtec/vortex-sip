@@ -1,6 +1,6 @@
 # 🚀 Vortex SIP Softphone
 
-![Version](https://img.shields.io/badge/version-v2.8.5-blue.svg)
+![Version](https://img.shields.io/badge/version-v2.8.11-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64)%20%7C%20Android-informational.svg)
 ![Edition](https://img.shields.io/badge/edition-FREE%20%2F%20PRO-success.svg)
 ![Author](https://img.shields.io/badge/desenvolvido%20por-Jean%20Palumbo%20%2F%20JPHardtec-blueviolet.svg)
@@ -48,8 +48,8 @@
 Baixe as versões oficiais mais recentes do **Vortex SIP**:
 
 ### 💻 Windows (10 / 11 - 64 bits)
-* 📦 **[Baixar Vortex SIP v2.8.5 (Instalador Setup)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.8.5/Vortex-SIP-Pro-Setup-2.8.5.exe)** *(Recomendado — inclui atalhos e auto-update)*
-* 🚀 **[Baixar Vortex SIP v2.8.5 (Versão Portátil / Portable)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.8.5/Vortex-SIP-Pro-2.8.5.exe)** *(Execução direta sem necessidade de instalar)*
+* 📦 **[Baixar Vortex SIP v2.8.11 (Instalador Setup)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.8.11/Vortex-SIP-Pro-Setup-2.8.11.exe)** *(Recomendado — inclui atalhos e auto-update)*
+* 🚀 **[Baixar Vortex SIP v2.8.11 (Versão Portátil / Portable)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.8.11/Vortex-SIP-Pro-2.8.11.exe)** *(Execução direta sem necessidade de instalar)*
 
 ### 📱 Android
 * 📲 **[Baixar Vortex SIP Mobile (APK v2.7.9)](https://github.com/JPHardtec/vortex-sip/releases/download/v2.7.9/Vortex-SIP-Mobile-v2.7.9.apk)**
@@ -58,7 +58,18 @@ Baixe as versões oficiais mais recentes do **Vortex SIP**:
 
 ## 📋 Histórico Recente de Versões (Changelog)
 
-### v2.8.5 (Atual)
+### v2.8.11 (Atual)
+* **Correção Crítica de Digitação/Foco de Teclado**: Substituição completa de caixas de diálogo nativas síncronas por modais assíncronos (`customConfirm`), eliminando o congelamento de foco nos campos de texto após exclusões.
+* **Visualização de Setores Vazios**: Setores recém-criados permanecem visíveis imediatamente na interface mesmo antes de adicionar ramais.
+* **Edição de Ramais e Contatos**: Adicionado botão de edição (lápis) para atualizar colaboradores, ramais e setores diretamente, sem necessidade de apagar e cadastrar novamente.
+* **Integração Inteligente do Histórico**:
+  - Botão `+` para cadastrar chamadas desconhecidas diretamente na agenda de contatos com número pré-preenchido.
+  - Identificação visual automática de ramais internos da empresa com badge azul `Ramal` e botão de edição de ramal.
+* **Contatos Simplificados**: Removido campo desnecessário de Departamento da agenda, mantendo foco ágil em Nome e Número.
+* **Título Oficial Limpo**: Identificação do aplicativo padronizada como `Vortex SIP Desktop - PRO`.
+* **Blindagem de Entrada**: Prevenção estrita de tipo na inicialização do modal de contatos.
+
+### v2.8.5
 * **Correção para Clientes ("Não foi possível encontrar o módulo especificado")**: Empacotamento das DLLs do Visual C++ Redistributable (MSVCP140, VCRUNTIME140) localmente na aplicação, eliminando falhas de inicialização em computadores sem o runtime C++ instalado.
 * **Instância Única (Single Instance Lock)**: Evita múltiplas janelas do discador abertas ao mesmo tempo.
 * **Botão de Reconexão Manual de Registro (`🔄`)**: Adicionado atalho rápido na barra de status para renovar o registro SIP imediatamente em caso de oscilação de rede.
